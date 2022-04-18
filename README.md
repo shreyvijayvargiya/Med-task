@@ -19,3 +19,6 @@ yarn run dev
 2. Material UI for components
 3. Tailwind CSS for styling
 
+### Preview 
+
+> https://med-task.vercel.app/ 
