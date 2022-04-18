@@ -3,7 +3,7 @@ import React from 'react';
 import { ThemeProvider } from '@material-ui/core/styles';
 import 'tailwindcss/tailwind.css';
 import { Navbar } from '../modules';
-
+import "../global.css";
 
 const MyApp = ({ Component, pageProps }) => {
 
