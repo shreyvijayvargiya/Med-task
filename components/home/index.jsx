@@ -13,7 +13,7 @@ const Home = () => {
       treatmentName: '',
       insuranceStatus: '',
       invoice: ''
-    });git 
+    });
 
     const Input = styled("input")({
       display: "none",
